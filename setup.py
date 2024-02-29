@@ -22,9 +22,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 """
 
-from setuptools import setup, find_packages
 
-setup(name='ghost',
+
+
       version='8.0.0',
       description=(
           'Ghost Framework is an Android post-exploitation framework that exploits the'
